@@ -1,6 +1,6 @@
 # Installing Docker to the Raspberry Pi
 
-Thanks to a nifty install script developed by the Docker team, installing the container software is incredibly simple.
+In order to run spoolman (https://github.com/Donkie/Spoolman) we will need to install docker on our raspberry pi.
 
 You can complete the following steps by using an SSH connection to your Raspberry Pi.
 
